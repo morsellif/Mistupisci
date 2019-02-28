@@ -1,6 +1,6 @@
 # Mistupisci
 
-Python library to control Mitsubischi Air Conditioner
+Python library to control Mitsubishi Air Conditioner
 
 Tested with:
 - Raspberry Pi 0 W
